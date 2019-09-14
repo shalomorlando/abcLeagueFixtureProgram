@@ -1,6 +1,6 @@
 # abcLeagueFixtureProgram
 
-The abcFixtureProgram was built at the end of my Data Structures class in my second year of University.
+The abcFixtureProgram was built at the end of my Data Structures and Algorithms class in my second year of University.
 
 The instructions were as follows:
 
